@@ -18,3 +18,7 @@ Các hoạt động trong công việc quản lý cửa hàng coffee:
   
   •	Thống kê chi tiết
 In báo cáo thống kê
+
+#THÔNG TIN GIẤY PHÉP
+
+GNU License Copyright © 2017 DH1C Team - Telecommunications University
