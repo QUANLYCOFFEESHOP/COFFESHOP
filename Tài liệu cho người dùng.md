@@ -1,6 +1,6 @@
 <p><H1>Tài Liệu Cho Người Sử Dụng</H1></p>
 <p>Giao diện đăng nhập</p>
-<p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t34.0-12/20068318_252188571952016_1746535162_n.png?oh=29789cd003fb360379492f099b578b3c&oe=596C34F9"></p>
+<p><img src="http://imgur.com/a/gr0CF"></p>
 <p>Giao diện chính</p>
 <p><img src="https://scontent.fdad3-2.fna.fbcdn.net/v/t34.0-12/20067566_252188585285348_686483329_n.png?oh=d83a83b7aa0cc3164d64d6425e770c07&oe=596C9EBD"></p>
 <p>Giao diện Sinh Viên</p>
