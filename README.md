@@ -33,7 +33,7 @@ In báo cáo thống kê</p>
 	<h1>Tổ chức kho code của mã nguồn</h1>
 	<p>
 		<blockquote>
-			<p><li>Cấu trúc tổ chức kho code của DUAN-NHOM tuân theo mô hình phân nhánh Git như hình dưới</li></p>
+			<p><li>Cấu trúc tổ chức kho code của COFFESHOP tuân theo mô hình phân nhánh Git như hình dưới</li></p>
 		</blockquote>
 		<p>
 			<img src="https://camo.githubusercontent.com/9bde6fb64a9542a572e0e2017cbb58d9d2c440ac/687474703a2f2f6e7669652e636f6d2f696d672f6769742d6d6f64656c4032782e706e67">
