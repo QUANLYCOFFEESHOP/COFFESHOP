@@ -54,7 +54,7 @@ Bất cứ ai yêu cầu ngừng các hành vi không thể chấp nhận đư�
 Nếu một thành viên cộng đồng tham gia vào hành vi không thể chấp nhận, ban tổ chức cộng đồng có thể thực hiện bất kỳ hành động nào mà họ cho là phù hợp, bao gồm cả lệnh cấm tạm thời hoặc trục xuất khỏi cộng đồng mà không có cảnh báo (và không được bồi hoàn trong trường hợp có sự kiện trả tiền).
 
 ## 6. Các hướng dẫn báo cáo
-Nếu bạn phải tuân theo hoặc chứng kiến ​​hành vi không được chấp nhận hoặc có bất kỳ mối quan tâm nào khác, vui lòng thông báo cho người tổ chức cộng đồng càng sớm càng tốt. nguyenvancanh201@gmail.com
+Nếu bạn phải tuân theo hoặc chứng kiến ​​hành vi không được chấp nhận hoặc có bất kỳ mối quan tâm nào khác, vui lòng thông báo cho người tổ chức cộng đồng càng sớm càng tốt. dinhviet0211@gmail.com
 
 
 
