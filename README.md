@@ -74,7 +74,7 @@ In báo cáo thống kê</p>
 	</p>
 	<!--  -->
 	<h1>Dành cho cộng tác viên</h1>
-	<p><li>Để tham gia phát triển code, chỉ cần 1 tài khoản trên Github.Sau đó truy cập vào kho code DUAN-NHOM(https://github.com/DUAN-NHOM/DUAN-NHOM/tree/master),ấn nút Fork để copy project có sẵn thành project của mình, rồi sau đó ta có thể tự do chỉnh sửa project đó của mình</li>
+	<p><li>Để tham gia phát triển code, chỉ cần 1 tài khoản trên Github.Sau đó truy cập vào kho code DUAN-NHOM(https://github.com/QUANLYCOFFEESHOP/COFFESHOP/tree/master),ấn nút Fork để copy project có sẵn thành project của mình, rồi sau đó ta có thể tự do chỉnh sửa project đó của mình</li>
 	</p>
   <p><li>Chỉnh sửa xong thì ấn nút Pull Request để gửi yêu cầu đóng góp lên cho những người quản lý kho code</li></p>
   <p><li>Những người quản lý kho code sẽ kiểm tra và phê duyệt các đóng góp này. Nếu đóng góp chưa đạt hoặc cần chỉnh sửa thì những người quản lý có thể viết góp ý ngay tại yêu cầu đóng góp và trả lại để người đóng góp chỉnh sửa theo góp ý và gửi lại sau khi đã sửa xong. Quá trình này diễn ra cho đến khi yêu cầu đóng góp được chấp nhận, đóng góp đó sẽ được trộn (merge) vào các nhánh phù hợp với dự án được đóng góp</li>
