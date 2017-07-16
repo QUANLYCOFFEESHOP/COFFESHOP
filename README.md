@@ -70,7 +70,7 @@ In báo cáo thống kê</p>
 	<!--  -->
 	<h1>Tài liệu thiết kế</h1>
 	<p>
-		Tài liệu thiết kế . <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/Design.md" target="_blank">Tại đây</a>.
+		Tài liệu thiết kế . <a href="https://github.com/QUANLYCOFFEESHOP/COFFESHOP/blob/master/Thi%E1%BA%BFt%20k%E1%BA%BF.md" target="_blank">Tại đây</a>.
 	</p>
 	<!--  -->
 	<h1>Dành cho cộng tác viên</h1>
