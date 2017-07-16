@@ -60,7 +60,7 @@ In báo cáo thống kê</p>
 	<!--  -->
 	<h1>Tài liệu hướng dẫn sử dụng</h1>
 	<p>
-		Đặt liên kết đến tài liệu hướng dẫn sử dụng <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/t%C3%A0i%20li%E1%BB%87u%20ng%C6%B0%E1%BB%9Di%20s%E1%BB%AD%20d%E1%BB%A5ng%20.md" target="_blank"> Xem tại đây</a>.
+		Đặt liên kết đến tài liệu hướng dẫn sử dụng <a href="https://github.com/QUANLYCOFFEESHOP/COFFESHOP/blob/master/T%C3%A0i%20li%E1%BB%87u%20cho%20ng%C6%B0%E1%BB%9Di%20d%C3%B9ng.md" target="_blank"> Xem tại đây</a>.
 	</p>
 	<!--  -->
 	<h1>Tài liệu dành cho nhà phát triển</h1>
