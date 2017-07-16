@@ -65,18 +65,12 @@ In báo cáo thống kê</p>
 	<!--  -->
 	<h1>Tài liệu dành cho nhà phát triển</h1>
 	<p>
-		Tài liệu phát triển . <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/Developer.md" target="_blank">Tại đây</a>.
+		Tài liệu phát triển . <a href="https://github.com/QUANLYCOFFEESHOP/COFFESHOP/blob/master/Developer.md" target="_blank">Tại đây</a>.
 	</p>
 	<!--  -->
 	<h1>Tài liệu thiết kế</h1>
 	<p>
 		Tài liệu thiết kế . <a href="https://github.com/DUAN-NHOM/QLThongTinSinhVien/blob/master/Design.md" target="_blank">Tại đây</a>.
-	</p>
-	<!--  -->
-	<h1>Danh sách lỗi</h1>
-	<p>
-		Bạn có thể tham gia đóng góp, báo lỗi, tìm hiểu thêm thông tin tại liên kết bên dưới.<br>
-		<a href="https://github.com/DUAN-NHOM/DUAN-NHOM/issues">https://github.com/DUAN-NHOM/DUAN-NHOM/issues</a>
 	</p>
 	<!--  -->
 	<h1>Dành cho cộng tác viên</h1>
