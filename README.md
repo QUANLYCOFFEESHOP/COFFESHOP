@@ -27,7 +27,7 @@ In báo cáo thống kê</p>
 <h1>Thông tin Giấy phép</h1>
 
 <p>
-		<a href="https://github.com/DUAN-NHOM/DUAN-NHOM/blob/master/Th%C3%B4ng%20tin%20v%E1%BB%81%20gi%E1%BA%A5y%20ph%C3%A9p.md">GNU License</a> Copyright &copy; 2017 DH1C Team - Telecommunications University
+		<a href="https://github.com/QUANLYCOFFEESHOP/COFFESHOP/blob/master/Th%C3%B4ng%20tin%20v%E1%BB%81%20gi%E1%BA%A5y%20ph%C3%A9p.md">GNU License</a> Copyright &copy; 2017 DH1C Team - Telecommunications University
 	</p>
 <!--  -->
 	<h1>Tổ chức kho code của mã nguồn</h1>
@@ -54,7 +54,7 @@ In báo cáo thống kê</p>
 	<h1>Ngôn ngữ lập trình</h1>
 	<p>
 		<blockquote>
-			<p>Phần mềm được xây dựng bằng ngôn ngữ lập trình Java sử dụng hệ quản trị SQL Server 2012.</p>
+			<p>Phần mềm được xây dựng bằng ngôn ngữ lập trình C# sử dụng hệ quản trị SQL Server 2012.</p>
 		</blockquote>
 	</p>
 	<!--  -->
