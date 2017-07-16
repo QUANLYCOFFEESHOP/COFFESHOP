@@ -1,0 +1,4 @@
+C:\Users\TGDD\Desktop\WindowsFormsApplication3\DAL\bin\Debug\DAL.dll
+C:\Users\TGDD\Desktop\WindowsFormsApplication3\DAL\bin\Debug\DAL.pdb
+C:\Users\TGDD\Desktop\WindowsFormsApplication3\DAL\obj\Debug\DAL.dll
+C:\Users\TGDD\Desktop\WindowsFormsApplication3\DAL\obj\Debug\DAL.pdb
