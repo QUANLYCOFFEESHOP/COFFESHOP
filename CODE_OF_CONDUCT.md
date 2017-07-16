@@ -70,7 +70,7 @@ Nếu bạn cảm thấy bạn đã bị cáo buộc sai hoặc không công b�
 Chúng tôi mong muốn tất cả những người tham gia cộng đồng (đóng góp, đóng góp, trả tiền hoặc bằng cách khác; nhà tài trợ và khách hàng khác) tuân theo Quy tắc Ứng xử này trong tất cả các địa điểm của cộng đồng-trực tuyến và trong người-cũng như trong tất cả các thông tin liên lạc liên quan đến cộng đồng kinh doanh.
 
 Quy tắc ứng xử và các thủ tục liên quan của nó cũng áp dụng đối với các hành vi không thể chấp nhận được xảy ra ngoài phạm vi hoạt động của cộng đồng khi hành vi đó có thể gây ảnh hưởng xấu đến sự an toàn và hạnh phúc của các thành viên cộng đồng.
-
+ 
 ## 9. Thông tin liên hệ
 
 dinhviet0211@gmail.com
